@@ -55,6 +55,7 @@ p {
 .attribution {
   font-size: 11px;
   text-align: center;
+  margin-top: 10px;
 }
 .attribution a {
   color: var(--text-color4);
